@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T14:16:47.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" etag="GCPdKau_VebqX3IwFDXR" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T00:51:44.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="CuMsjdwFkL8gxEddb1g6" version="13.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
             <mxPoint x="380" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X43wygpL5dwBFsIKlkYf-133" value="等待客户端连接" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="X43wygpL5dwBFsIKlkYf-133" value="自动关机" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="1780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X43wygpL5dwBFsIKlkYf-122" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -232,7 +232,7 @@
         <mxCell id="X43wygpL5dwBFsIKlkYf-149" value="调用模型，图像处理函数进行处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="1280" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="L8OoEaonhud8ySzUjzfw-0" value="io.BytesIO([initial_bytes])一个使用内存字节缓冲区的流实现。在close()方法被调用时将会丢弃缓冲区&lt;br&gt;可选参数initial_bytes是一个包含初始数据的bytes-like object" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="L8OoEaonhud8ySzUjzfw-0" value="io.BytesIO([initial_bytes])一个使用内存字节缓冲区的流实现。在close()方法被调用时将会丢弃缓冲区&lt;br&gt;可选参数initial_bytes是一个包含初始数据的bytes-like object" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="970" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
